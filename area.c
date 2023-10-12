@@ -11,6 +11,7 @@ int main(){
     	
     	printf("Area of the circle: %.2lf\n", a);
     	printf("Circumference of the circle: %.2lf\n", c);
+    	printf("Change is done");
     	
 
 
